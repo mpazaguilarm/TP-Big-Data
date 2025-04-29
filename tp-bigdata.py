@@ -37,3 +37,10 @@ print(data_filtrada.head())
 # Que porcentage desempleado? (pie chart)
 # Salario promedio de cada uno (en numeros)
 # Salario por edad de cada uno (grafico continuo tipo normal o histograma)
+
+# Subo el archivo a GitHub con los siguientes comandos en la terminal:
+# git init
+# git add tp-bigdata.py
+# git commit -m "Initial commit"
+# git remote add origin https://github.com/mpazaguilarm/TP-Big-Data.git
+# git push -u origin main
